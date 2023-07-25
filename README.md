@@ -1,2 +1,2 @@
 # Projetos_LP_Unifesp
- Disciplina de Lógica de Programção na UNIFESP.
+ Disciplina de Lógica de Programação na UNIFESP.
