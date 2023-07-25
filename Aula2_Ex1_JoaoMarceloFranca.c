@@ -26,5 +26,6 @@ int main()
     float real = ConverteEmReal();
     system("cls");
     printf("O valor em reais eh: RS %.2f", real);
+    sleep(3);
     return 0;
 }
