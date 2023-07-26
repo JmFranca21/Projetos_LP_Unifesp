@@ -1,2 +1,3 @@
 # Projetos_LP_Unifesp
- Disciplina de Lógica de Programação na UNIFESP.
+
+Projetos da disciplina de Lógica de Programação - primeiro semestre UNIFESP.
